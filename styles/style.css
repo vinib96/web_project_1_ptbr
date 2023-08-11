@@ -15,6 +15,7 @@
   min-height: 600px;
   max-height: 756px;
   background-color: #f2f2f2;
+  position: relative;
   /* parameters for the header section */
 }
 
@@ -177,6 +178,7 @@
   background-repeat: no-repeat;
   background-position-y: bottom;
   background-size: 867px 637px;
+  position: relative;
 }
 
 .feynman__title {
@@ -214,7 +216,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  position: absolute;
+  position: relative;
   overflow: hidden;
   background-color: #1f1f1f;
 }
@@ -222,6 +224,7 @@
 .kaufman__triangle {
   position: absolute;
   right: -124px;
+  top: 0;
 }
 
 .section-title_theme_dark {
@@ -287,4 +290,10 @@
   background-color: #1f1f1f;
   display: flex;
   flex-direction: column;
+}
+
+.footer__columns {
+  width: 90%;
+  margin-top: 60px;
+  margin-bottom: 40px;
 }
