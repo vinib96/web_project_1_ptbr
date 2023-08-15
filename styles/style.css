@@ -26,7 +26,7 @@
 }
 .logo_place_header {
   background-size: 154px 31px;
-  z-index: 3;
+  z-index: 2;
   background-image: url(../images/logo_place_header.jpg);
 }
 
@@ -38,6 +38,7 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
+  z-index: 3;
 }
 
 .header__subtitle {
@@ -51,6 +52,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  z-index: 4;
 }
 
 .header__link {
