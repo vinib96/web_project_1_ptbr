@@ -41,7 +41,7 @@
 }
 
 .header__subtitle {
-  display: flex;
+  display: block;
   width: 388px;
   position: absolute;
   margin-left: 64px;
@@ -51,7 +51,6 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  display: block;
 }
 
 .header__link {
@@ -92,7 +91,6 @@
 
 .two-columns__brief {
   width: 175px;
-  line-height: 1.2;
   color: #2f80ed;
   margin: 0;
   line-height: 1.2;
