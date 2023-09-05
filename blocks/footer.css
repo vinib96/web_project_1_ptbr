@@ -19,7 +19,7 @@
   flex-basis: 711px;
 }
 
-.logo__logo_place_footer {
+.logo_place_footer {
   display: flex;
   justify-content: right;
   width: 183px;
