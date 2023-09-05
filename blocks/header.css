@@ -21,7 +21,7 @@
 .logo {
   display: flex;
 }
-.logo__logo_place_header {
+.logo_place_header {
   padding-left: 64px;
   padding-top: 30px;
   margin: 0;

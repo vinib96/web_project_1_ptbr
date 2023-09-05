@@ -2,15 +2,15 @@
   display: flex;
   flex-direction: column;
   position: relative;
+  margin: 100px auto 0;
 }
 
 .video__iframes {
   display: flex;
   position: relative;
   justify-content: center;
-  margin: 0 auto;
-  gap: 20px;
   top: 50px;
+  gap: 20px;
 }
 
 .video__iframe {
