@@ -1,7 +1,6 @@
 .techniques {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .section-title {
@@ -30,7 +29,7 @@
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
-  row-gap: 16px;
+  padding: 0;
   column-gap: 100px;
   margin-bottom: 100px;
 }
@@ -38,7 +37,6 @@
 .cards__item {
   display: flex;
   flex-direction: column;
-  row-gap: 16px;
   width: 240px;
 }
 
@@ -55,7 +53,7 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  margin: 43px 0 0;
+  margin: 43px 0 16px;
   text-align: center;
 }
 
