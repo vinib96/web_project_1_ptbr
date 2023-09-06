@@ -1,3 +1,4 @@
+@import url(../styles/normalize.css);
 @import url(../blocks/header.css);
 @import url(../blocks/description.css);
 @import url(../blocks/techniques.css);
@@ -20,4 +21,3 @@
   /* this ensures that all content is centered on screens wider than 1600px */
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
-

@@ -46,6 +46,7 @@
   font-weight: normal;
   padding-bottom: 80px;
   color: white;
+  z-index: 2;
 }
 
 .table_theme_dark {

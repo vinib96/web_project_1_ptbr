@@ -47,16 +47,20 @@
   margin-top: 68px;
   position: relative;
 }
+.khan__pic-container {
+  height: 400px;
+  overflow: hidden;
+}
 
 .khan__book-pic {
+  margin-right: 48px;
   width: 620px;
   height: 608px;
-  margin-right: 48px;
-  margin-bottom: -250px;
 }
 
 .khan__buy-link {
   margin: 0;
+  height: 42px;
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
