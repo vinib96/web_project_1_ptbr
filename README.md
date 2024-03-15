@@ -1,7 +1,40 @@
-<h1>Projeto número 3: "Aprendendo a aprender"</h1>
 
-<p>O terceiro projeto da Sprint 3 do curso de Desenvolvedor Web da TripleTen se trata de uma continuação do projeto da Sprint 2, onde havia criado uma página padrão html (com cabeçalho, quatro seções e o rodapé) seguindo a metodologia BEM para organizar o código CSS e utilizando técinicas de posicionamento de elementos (como Z-index, por exemplo), flexbox e semânticas HTML avançadas.
-  
-No atual projeto, adicionei mais quatro novas seções e modifiquei alguns elementos das anteriores por meio de tecnicas de transição e animação (para as figuras geométricas do cabeçalho e do bloco "kaufman", por exemplo) e modificação dos links para que se tornam semitransparentes ao serem clicados. Também foi utilizado em um dos novos blocos a inserção e posicionamento de videos por meio do elemento HTML iframe.</p>
+# PROJETO 3: "APRENDENDO A APRENDER"
 
-Gostaria de acrescentar futuramente mais elementos de video e áudio, além da criação de formulários.
+O terceiro projeto (referente as Sprint 2 e 3) do curso de "Desenvolvedor Web" da TripleTen consiste na criação de uma página padrão html (cabeçalho, quatro seções e o rodapé) que contém informações e dicas sobre educação e aprendizado. O objetivo é praticarmos ferramentas de HTML e CSS, principalmente transição, animação e vídeos.
+
+## Funcionalidades
+
+- Os vídeos foram adicionados utilizando "iframe";
+- As animações foram criadas com CSS, por meio das propriedades "transform" e "animation".
+
+
+
+## Stack utilizada
+
+**Front-end:** HTML, CSS, flexbox, z-index, transition, animation, BEM.
+
+
+
+
+## Screenshots
+
+![Screenshot do header](https://github.com/vinib96/web_project_1_ptbr/assets/141737376/84d9714a-1d4c-4ef9-a118-f804f2e5a16a)
+
+
+
+## Roadmap
+
+- Utilizar layout em grid para os blocos da página que utilizam de tabelas;
+
+- Os links podem ser substituídos por botões criados com a linguagem de programação JavaScript e seus designs melhorados.
+
+
+## Demonstração
+
+Você pode acessar o site [aqui](https://vinib96.github.io/web_project_1_ptbr/).
+
+
+## Apêndice
+
+Você pode baixar as imagens e textos utilizados [aqui](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/WEB_sprint_3/PT/sprint_3-sources-ptbr.zip).
