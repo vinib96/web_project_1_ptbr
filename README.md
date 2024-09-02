@@ -1,7 +1,7 @@
 
 # PROJETO 3: "APRENDENDO A APRENDER"
 
-O terceiro projeto (referente as Sprint 2 e 3) do curso de "Desenvolvedor Web" da TripleTen consiste na criação de uma página única HMTL (cabeçalho, quatro seções e o rodapé) que contém informações e dicas sobre educação e aprendizado, além da indicação de livros e sites relacionados ao tema. O objetivo é praticarmos ferramentas de HTML e CSS, principalmente transição, animação e vídeos.
+O terceiro projeto (Sprints 2 e 3) do curso de "Desenvolvedor Web" da TripleTen teve como objetivo criar uma página única em HTML composta por um cabeçalho, quatro seções e um rodapé, contendo informações e dicas sobre educação e aprendizado, além de recomendações de livros e sites relacionados ao tema. Este projeto foi desenvolvido para praticar e aplicar ferramentas de HTML e CSS, com ênfase em transições, animações e incorporação de vídeos. O resultado foi uma página informativa e visualmente atraente, que utiliza recursos de design para melhorar a interatividade e a experiência do usuário.
 
 ## Funcionalidades
 
